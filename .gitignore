@@ -1,0 +1,19 @@
+### https://raw.github.com/github/gitignore/00111374b47b684cb2196c9034ea92cbdfbf9c9f/java.gitignore
+
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+.project
+.DS_Store
+.idea
+.secret
